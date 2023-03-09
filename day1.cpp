@@ -1,8 +1,4 @@
-// uhuuhuh 
-// jiuhjiu
-// ijytiujiutj
-// iuytujt
-
+// Problem:- Given an array of integers, find the sum of its elements.
 
 #include<iostream>
 using namespace std;
