@@ -1,1 +1,1 @@
-# 100DayOfCodeChallenge
+# 100DaysOfCodeChallenge
